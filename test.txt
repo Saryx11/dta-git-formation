@@ -1,4 +1,3 @@
 fichier de test en cours de modification dans rebase
 Modification locale
-modif via github
-
+modif via git
